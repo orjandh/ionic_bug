@@ -1,0 +1,7 @@
+{
+  "name": "ionic_bug",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
